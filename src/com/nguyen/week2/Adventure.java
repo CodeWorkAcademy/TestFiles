@@ -8,7 +8,7 @@ public class Adventure {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("WELCOME TO DIEM'S TINY ADVENTURE!");
+        System.out.println("Are you ready to experience a girl's mind?");
         // Make a short "Choose Your Own Adventure" game.
         // It should feature at least two options after the first page,
         // at least two options for each of the two second-level pages,
